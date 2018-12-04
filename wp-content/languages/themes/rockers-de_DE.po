@@ -1,0 +1,149 @@
+# Translation of Themes - Rockers in German
+# This file is distributed under the same license as the Themes - Rockers package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-30 12:17:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Rockers\n"
+
+#. Description of the plugin/theme
+msgid "Rockers is a responsive, multi-purpose WordPress theme. It's flexible and perfect to build websites for agencies, blogs, businesses, finance, accounting, consulting, corporations, or portfolios. Customization is easy and straight-forward, with options provided that allow you to set up your site to perfectly fit your desired online presence."
+msgstr "Rockers ist ein responsives, vielseitig verwendbares WordPress-Theme. Es ist flexibel und eignet sich perfekt für Agenturen, Blogs, Unternehmen, Finanzdienstleistungen, Buchhaltung, Beratung oder Portfolios. Es lässt sich durch seine Optionen leicht und schnell anpassen, sodass du deine Website perfekt an die Bedürfnisse deiner Online-Präsenz anpassen kannst."
+
+#. Theme Name of the plugin/theme
+msgid "Rockers"
+msgstr "Rockers"
+
+#: functions/widgets/sidebars.php:7 functions/widgets/sidebars.php:9
+msgid "Classic header widget area"
+msgstr "Klassischer Widget-Bereich im Header"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:122
+msgid "Link to get Font Awesome icons"
+msgstr "Link zu Font Awesome Icons"
+
+#: header/header-navbar.php:143
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: header/header-navbar.php:76 header/header-navbar.php:207
+msgid "Monday - Saturday"
+msgstr "Montag - Samstag"
+
+#: header/header-navbar.php:75 header/header-navbar.php:207
+msgid "08:00 - 16:30"
+msgstr "08:00 - 16:30"
+
+#: functions/widgets/wdl_social_icon.php:243
+msgid "Dribble URL"
+msgstr "Dribble URL"
+
+#: functions/widgets/wdl_social_icon.php:237
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: functions/widgets/wdl_social_icon.php:231
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/widgets/wdl_social_icon.php:225
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: functions/widgets/wdl_social_icon.php:219
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: functions/widgets/wdl_social_icon.php:213
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/widgets/wdl_social_icon.php:207
+msgid "Google-Plus URL"
+msgstr "Google-Plus URL"
+
+#: functions/widgets/wdl_social_icon.php:201
+msgid "Twitter URL"
+msgstr "Twitter URL "
+
+#: functions/widgets/wdl_social_icon.php:195
+msgid "Facebook URL"
+msgstr "Facebook URL "
+
+#: functions/widgets/wdl_social_icon.php:16
+msgid "Rockers social icons widget"
+msgstr "Rockers Widget für Soziale Icons"
+
+#: functions/widgets/wdl_social_icon.php:13
+msgid "ST: Social icons"
+msgstr "ST: Soziale Icons"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:134
+#: functions/widgets/wdl_social_icon.php:198
+#: functions/widgets/wdl_social_icon.php:204
+#: functions/widgets/wdl_social_icon.php:210
+#: functions/widgets/wdl_social_icon.php:216
+#: functions/widgets/wdl_social_icon.php:222
+#: functions/widgets/wdl_social_icon.php:228
+#: functions/widgets/wdl_social_icon.php:234
+#: functions/widgets/wdl_social_icon.php:240
+#: functions/widgets/wdl_social_icon.php:246
+msgid "Open link in new tab"
+msgstr "Link in neuem Tab öffnen"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:127
+msgid "Description"
+msgstr "Beschreibung"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:124
+msgid "Title"
+msgstr "Titel"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:122
+msgid "fa-icon"
+msgstr "fa-icon"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:120
+msgid "Font Awesome icon"
+msgstr "Font Awesome Icon"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:100
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:128
+#: header/header-navbar.php:63 header/header-navbar.php:195
+msgid "California - United States"
+msgstr "Berlin - Deutschland"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:93
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:125
+#: header/header-navbar.php:62 header/header-navbar.php:194
+msgid "Chestnut Road,"
+msgstr "Kastanienallee,"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:17
+msgid "Topbar Classic Header info widget."
+msgstr "Klassisches Header-Info-Widget für obere Leiste."
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:14
+msgid "ST: Classic Header info widget"
+msgstr "ST: Klassisches Header-Info-Widget"
+
+#: functions/widgets/wdl_header_topbar_info_ct_widget.php:130
+msgid "Link"
+msgstr "Link"
+
+#. Author URI of the plugin/theme
+msgid "https://spicethemes.com/"
+msgstr "https://spicethemes.com/"
+
+#. Author of the plugin/theme
+msgid "SpiceThemes"
+msgstr "SpiceThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://spicethemes.com/rockers-wordpress-theme"
+msgstr "https://spicethemes.com/rockers-wordpress-theme"
